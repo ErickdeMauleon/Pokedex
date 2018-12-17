@@ -1,0 +1,2 @@
+# Pokedex
+Atrapálos YAAA! POKEMON!
